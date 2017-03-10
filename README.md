@@ -4,7 +4,7 @@ The problems are grouped in the following top-level directories
 ## solved
 These problems have been solved successfully. 
 For each problem, the code and test cases for are grouped together in a
-directory named **UVa_problem-code_** where _problem-code_ is the the
+directory named **_UVa[0-9]*_** where **_[0-9]*_** is the the
 corresponding UVa problem code.
 
 ## todo
